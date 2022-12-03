@@ -137,3 +137,28 @@ background: #F4F4FD;
     0px 2px 1px rgba(46, 47, 66, 0.08);
     border-radius: 0px 0px 4px 4px;
 }
+
+.footer {
+background: #2E2F42;
+}
+
+.footer-text {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #E7E9FC;
+}
+
+.footer-logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.33;
+    color: inherit;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    color: #F4F4FD;
+}
